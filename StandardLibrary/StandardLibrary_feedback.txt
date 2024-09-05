@@ -1,0 +1,133 @@
+09/07/17 12:22
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Incorrect response(s)
+(Hint: 3 are immutable and 2 are mutable)
+Score += 0
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+Score += 0
+
+Problem 5 (15 points):
+'Shut the box' does not match specifications
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 20/50 = 40.0%
+
+-------------------------------------------------------------------------------
+
+09/09/17 15:00
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Incorrect response(s)
+(Hint: 3 are immutable and 2 are mutable)
+Score += 0
+
+Problem 3 (10 points):
+AttributeError: module 'calculator' has no attribute 'math'
+
+Problem 4 (10 points):
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+power_set(A) failed
+	power_set(A) does not contain set() (the empty set)
+	power_set(A) does not contain set(A)
+Score += 0
+
+Problem 5 (15 points):
+'Shut the box' does not match specifications
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 10/50 = 20.0%
+
+-------------------------------------------------------------------------------
+
+09/11/17 22:39
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+'Shut the box' does not match specifications
+Score += 0
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 35/50 = 70.0%
+
+
+Comments:
+	If you need help with shut the box, office hours are on Wednesday.
+
+-------------------------------------------------------------------------------
+
+09/13/17 16:00
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Problem 5 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

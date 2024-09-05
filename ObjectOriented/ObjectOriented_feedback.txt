@@ -1,0 +1,124 @@
+09/14/17 17:39
+
+Problem 1 (10 points):
+TypeError: __init__() takes 2 positional arguments but 3 were given
+
+Problem 2 (10 points):
+AttributeError: module 'SeongEunCho.ObjectOriented.object_oriented' has no attribute 'Jetpack'
+
+Problem 3 (10 points):
+TypeError: __init__() takes 2 positional arguments but 3 were given
+
+Problem 4 (15 points):
+AttributeError: module 'SeongEunCho.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Code Quality (5 points):
+AttributeError: module 'SeongEunCho.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/18/17 17:55
+
+Problem 1 (10 points):
+TypeError: __init__() takes 2 positional arguments but 3 were given
+
+Problem 2 (10 points):
+AttributeError: module 'SeongEunCho.ObjectOriented.object_oriented' has no attribute 'Jetpack'
+
+Problem 3 (10 points):
+TypeError: __init__() takes 2 positional arguments but 3 were given
+
+Problem 4 (15 points):
+AttributeError: module 'SeongEunCho.ObjectOriented.object_oriented' has no attribute 'ComplexNumber'
+
+Code Quality (5 points):
+NotImplementedError: ComplexNumber.__truediv__() not found
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/19/17 21:07
+
+Problem 1 (10 points):
+change doctoring in Backpack.__init__() to talk about color and max_size before parameters. 
+Score += 9
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 49/50 = 98.0%
+
+Excellent!
+
+
+Comments:
+	Wahoo! Great work!!! Just change your docstring in Backpack.__init__() and you'll be good! 
+
+-------------------------------------------------------------------------------
+
+09/20/17 15:25
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	Wahoo!! Good job! 
+
+-------------------------------------------------------------------------------
+
+09/21/17 09:49
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (15 points):
+Score += 15
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+
+Comments:
+	WAHOO
+
+-------------------------------------------------------------------------------
+

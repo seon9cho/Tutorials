@@ -1,0 +1,125 @@
+09/22/17 18:24
+
+Problem 1 (5 points):
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 1234 4321 3087 7803
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 122 221 99 99
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 324 201 102
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 321 111 111
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 321 198 899
+Score += 0
+
+Problem 2 (5 points):
+random_walk() failed to print 'Process Completed'
+random_walk() failed to handle the KeyboardInterrupt
+random_walk() failed to print 'Process Interrupted'
+Score += 1
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (25 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+NotImplementedError: ContentFilter.transpose() not found
+
+Total score: 1/50 = 2.0%
+
+-------------------------------------------------------------------------------
+
+09/25/17 17:12
+
+Problem 1 (5 points):
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 1234 4321 3087 7803
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 122 221 99 99
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 324 201 102
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 321 111 111
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 321 198 899
+Score += 0
+
+Problem 2 (5 points):
+random_walk() failed to print 'Process Completed'
+random_walk() failed to handle the KeyboardInterrupt
+random_walk() failed to print 'Process Interrupted'
+Score += 1
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (25 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+NotImplementedError: ContentFilter.transpose() not found
+
+Total score: 1/50 = 2.0%
+
+-------------------------------------------------------------------------------
+
+09/27/17 17:11
+
+Problem 1 (5 points):
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 1234 4321 3087 7803
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 122 221 99 99
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 324 201 102
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 321 111 111
+arithmagic() failed to raise a ValueError (no Exception raised)
+	Parameters: 123 321 198 899
+Score += 0
+
+Problem 2 (5 points):
+random_walk() failed to print 'Process Completed'
+random_walk() failed to handle the KeyboardInterrupt
+random_walk() failed to print 'Process Interrupted'
+Score += 1
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (25 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+NotImplementedError: ContentFilter.uniform() not found
+
+Total score: 1/50 = 2.0%
+
+-------------------------------------------------------------------------------
+
+09/28/17 18:33
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (25 points):
+Score += 25
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
