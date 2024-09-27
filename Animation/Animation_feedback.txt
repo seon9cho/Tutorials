@@ -1,0 +1,52 @@
+09/11/18 17:46
+
+Problem 1 (5 points):
+Score += 0
+
+Problem 2 (5 points):
+Score += 0
+
+Problem 3 (10 points):
+Score += 0
+
+Problem 4 (5 points):
+Score += 0
+
+Problem 5 (10 points):
+Score += 0
+
+Code Quality (5 points):
+Score += 0
+
+Total score: 0/40 = 0.0%
+
+-------------------------------------------------------------------------------
+
+09/14/18 11:59
+
+Problem 1 (5 points):
+Not quite what we were looking for. Should be the gentire graph of a function y=f(x) but where the graph varies in time.
+Score += 2
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Could use some comments in Problems 2&3.
+Score += 4
+
+Total score: 36/40 = 90.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
